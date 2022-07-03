@@ -1,7 +1,9 @@
 {
   "scripts": {
     "start": "retype watch",
-    "build": "retype build"
+    "build": "retype build",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d .retype"
   },
   "dependencies": {
     "retypeapp-win-x64": "^2.2.0"
