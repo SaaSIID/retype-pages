@@ -1,6 +1,9 @@
 # retype-pages
 A simple repo to make documentation easier
 
+## Link
+
+https://saasiid.github.io/retype-pages/
 
 ## How to deploy
 
